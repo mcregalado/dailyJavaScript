@@ -1,4 +1,21 @@
-# Simple Todo App #
-Using ReactJS and Vite
+# Simple Todo App
+A lightweight and efficient task management app built with **React.js** and **Vite** for blazing-fast development and performance.
 
-developed by: Marianne Christine Regalado
+### Features
+- Add, complete, and delete tasks with ease
+- Clean and minimal UI for focused productivity
+- Fast and responsive performance powered by Vite
+
+### Tech Stack
+- React.js
+- Vite
+- JavaScript
+- CSS
+
+---
+
+### Developed By
+Marianne Christine Regalado
+
+### GitHub Repository
+[https://github.com/mcregalado/dailyJavaScript/ToDo-App](https://github.com/mcregalado/dailyJavaScript/ToDo-App)
