@@ -18,4 +18,5 @@ A lightweight and efficient task management app built with **React.js** and **Vi
 Marianne Christine Regalado
 
 ### GitHub Repository
-Sample link: [https://mcregalado.github.io/dailyJavaScript/ToDo-App](https://mcregalado.github.io/dailyJavaScript/ToDo-App)
+Sample link: [https://mcregalado.github.io/dailyJavaScript/ToDo-App/](https://mcregalado.github.io/dailyJavaScript/ToDo-App/)
+
